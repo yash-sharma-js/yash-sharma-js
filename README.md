@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASH SHARMA</h1>
 <h3 align="center">A passionate Backend Dev.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-sharma-js" alt="yash-sharma-js" /></a> </p>
+
 
 - 🔭 I’m currently working on [Project Managment System](https://github.com/yash-sharma-js/PMS)
 
