@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a> 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-sharma-js&label=Profile%20views&color=0e75b6&style=flat" alt="yash-sharma-js" /> </p>
 
 ## Connect with me:
-
 <p align="left">
   <a href="https://x.com/yash_sharma_js" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40" />
