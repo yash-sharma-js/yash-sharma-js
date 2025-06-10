@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/c1Bv8nBK/linkedin-banner.png" alt="MasterHead" width="100%" height="250"/>
+<img src="https://i.postimg.cc/HkpRsfsc/linkedin-banner.png" alt="MasterHead" width="100%" height="250"/>
 
 
 # Hi 👋, I'm Yash
