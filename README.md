@@ -1,4 +1,12 @@
+<img src="https://i.postimg.cc/c1Bv8nBK/linkedin-banner.png" alt="MasterHead" width="100%" height="250"/>
+
+
 # Hi 👋, I'm Yash
+
+<h3 align="justify">
+A Computer Science Engineer with expertise in Java, Python, and C, and proficiency in the MERN stack and Angular. I gained hands-on experience as a Back-end Developer intern at JIO. I am passionate about continuous learning and eager to apply my skills to real-world projects and collaborate with industry professionals.
+</h3>
+
 
 - 🔭 I’m currently working on [PlanIT](https://github.com/yash-sharma-js/PlanIT)  
 - 💬 Ask me about **Angular, Node, Express, MongoDB**  
