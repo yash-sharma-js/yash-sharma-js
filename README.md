@@ -48,13 +48,13 @@ I’ve interned at **Jio Platforms Ltd.**, where I designed scalable APIs and da
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats-tawny-nine-90.vercel.app/api?username=yash-sharma-js&show_icons=true&rank_icon=github&theme=transparent&cache_seconds=21600" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-tawny-nine-90.vercel.app/api/top-langs/?username=yash-sharma-js&layout=compact&theme=transparent&cache_seconds=21600" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
